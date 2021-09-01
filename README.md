@@ -1,6 +1,6 @@
 # template strapi basic
 
-[github](http)
+[github](https://github.com/Rick-torrellas/template-strapi-basic)
 
 A quick description of your strapi application
 
